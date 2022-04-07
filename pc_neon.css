@@ -70,7 +70,7 @@ padding:0 0 .4em
 
 html {
 
-   background: linear-gradient(to bottom, #000000, #000000);
+   background: linear-gradient(to bottom, #060012, #060012);
 
   height: auto !important;
 
@@ -83,9 +83,9 @@ background: transparent;
 
 animation: snow 20s linear infinite;
 
- background-image:url('https://rkalek.github.io/sirasoni26/sp1.png'),
- url("https://rkalek.github.io/sirasoni26/sp2.png"),
- url("https://rkalek.github.io/sirasoni26/sp3.png");
+ background-image:url('https://rkalek.github.io/ming/bg1.png'),
+ url("https://rkalek.github.io/ming/bg2.png"),
+ url("https://rkalek.github.io/ming/bg3.png");
 }
 @keyframes snow {
 
@@ -122,7 +122,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(https://rkalek.github.io/sirasoni26/sigether_black.png) no-repeat; /* url(로고 경로 입력) */
+    background: url(https://rkalek.github.io/ming/minggether_base.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
