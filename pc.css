@@ -83,15 +83,15 @@ background: transparent;
 
 animation: snow 20s linear infinite;
 
- background-image:url('https://rkalek.github.io/ming/bgneon1.jpg'),
+ background-image:url('https://rkalek.github.io/ming/blue.png'),
  url("https://rkalek.github.io/ming/red.png"),
- url("https://rkalek.github.io/ming/blue.png");
+ url("https://rkalek.github.io/ming/bgneon1.jpg");
 }
 @keyframes snow {
 
 0% {background-position: 0px 0px, 200px 0px, 0px 0px;}
 
-100% {background-position: 1px 1px, 400px 400px, 300px 300px;}
+100% {background-position: 500px 1000px, 400px 400px, 1px 1px;}
 
 }
 
