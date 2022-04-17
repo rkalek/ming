@@ -98,15 +98,16 @@ animation: snow 20s linear infinite;
 
 
 @font-face {
-    font-family: '양진체';
-    src: url('https://cdn.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
+    font-family: 'SANGJUGyeongcheonIsland';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/SANGJUGyeongcheonIsland.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 
+
 * {
-    font-family: 'yg-jalnan';
+    font-family: 'SANGJUGyeongcheonIsland';
 }
 
 
