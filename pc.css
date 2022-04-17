@@ -4,7 +4,7 @@
 
 
 
-  --color-1: #FFFFFF; /* */
+  --color-1: #3f1249; /* */
 
   --color-2: #FFFFFF; /* */
 
@@ -21,11 +21,11 @@
 
 header #header-bar > .row {
 
-    padding: 3px #FFFFFF;
+    padding: 1px #3f1249;
 
-    background: linear-gradient( to bottom, #190057, #008aff);
+    background: linear-gradient( to bottom, #000000, #af1931);
     border-radius: 12px;
-    border-bottom: 2px solid var(--color-1); border-right: 2px solid var(--color-1) 
+    border-bottom: 1px solid var(--color-1); border-right: 1px solid var(--color-1) 
 
 }
 
