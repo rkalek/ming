@@ -288,9 +288,9 @@ header #right-search-form>#right-search-btn {
 
 header #header-bar>.row {
 
-    border-top: 5px solid #FFFFFF !important; /* 광고 배너 테두리 색 */
+    border-top: 1px solid #3f1249 !important; /* 광고 배너 테두리 색 */
 
-    border: 1px solid #FFFFFF; /* 광고 배너 테두리 색 */
+    border: 1px solid #3f1249; /* 광고 배너 테두리 색 */
 
 }
 
@@ -302,7 +302,7 @@ header #header-bar>.row {
 
 header #header-bar #header-top-notice strong.notice-badge {
 
-    background: #FFFFFF; /* 광고 배너 광고 뱃지 배경 색상 */
+    background: #000000; /* 광고 배너 광고 뱃지 배경 색상 */
 
 }
 
@@ -314,7 +314,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper {
 
-    border: 1px solid #FFFFFF; /* 좌측 배너 테두리 색 */
+    border: 1px solid #3f1249; /* 좌측 배너 테두리 색 */
 
     border-top: none !important;
     border-radius: 15px;
@@ -337,7 +337,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper>.header {
 
-    background: #FFFFFF; /* 좌측 배너 제목 배경 색 */
+    background: #af1931; /* 좌측 배너 제목 배경 색 */
 
     border-radius: 15px 15px 0 0;
 
@@ -391,7 +391,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area {
 
-    color: #0000CD; /* 접속자 수 글씨 색 */
+    color: #af1931; /* 접속자 수 글씨 색 */
 
 }
 
@@ -431,7 +431,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row.notice {
 
-    background-color: #000000; /* 공지 배경 색 */
+    background-color: #af1931; /* 공지 배경 색 */
 
 }
 
@@ -519,9 +519,9 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 .btn-primary {
 
-    background-color: #FFFFFF; /* 글 쓰기 버튼 배경 색 */
+    background-color: #af1931; /* 글 쓰기 버튼 배경 색 */
 
-    border-color: #FFFFFF; /* 글 쓰기 버튼 배경 색 */
+    border-color: #000000; /* 글 쓰기 버튼 배경 색 */
 
 }
 
@@ -553,8 +553,8 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 .btn-outline-success {
 
-    color: #FFFFFF; /* 추천 버튼 배경 색 */
+    color: #af1931; /* 추천 버튼 배경 색 */
 
-    border-color: #FFFFFF; /* 추천 버튼 테두리 색 */
+    border-color: #000000; /* 추천 버튼 테두리 색 */
 
 }
